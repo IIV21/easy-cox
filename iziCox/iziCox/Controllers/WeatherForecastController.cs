@@ -1,4 +1,3 @@
-using IronBarCode;
 using iziCox.Services;
 using Microsoft.AspNetCore.Mvc;
 
